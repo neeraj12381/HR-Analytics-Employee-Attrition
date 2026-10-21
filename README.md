@@ -58,3 +58,18 @@ The project uses Python for data analysis, MySQL for data validation and busines
 ## Dataset Note
 
 This is a portfolio analysis using a sample employee attrition dataset. The results are for learning and demonstration purposes and should not be interpreted as findings from a specific real-world company.
+
+
+## Power BI Dashboard Preview
+
+### 1. HR Overview
+![HR Overview](Screenshots/HR_Overview.jpeg)
+
+### 2. Attrition Analysis
+![Attrition Analysis](Screenshots/Attrition%20Analysis.jpeg)
+
+### 3. Employee Experience
+![Employee Experience](Screenshots/Employee%20Experience%20.jpeg)
+
+### 4. Compensation & Career Growth
+![Compensation & Career Growth](Screenshots/Compensation%20%26%20Career%20Growth.jpeg)
